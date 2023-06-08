@@ -1,0 +1,13 @@
+C:\Users\antho\source\repos\FORMATION\Boucles\Boucles\bin\Debug\netcoreapp3.1\Boucles.exe
+C:\Users\antho\source\repos\FORMATION\Boucles\Boucles\bin\Debug\netcoreapp3.1\Boucles.deps.json
+C:\Users\antho\source\repos\FORMATION\Boucles\Boucles\bin\Debug\netcoreapp3.1\Boucles.runtimeconfig.json
+C:\Users\antho\source\repos\FORMATION\Boucles\Boucles\bin\Debug\netcoreapp3.1\Boucles.runtimeconfig.dev.json
+C:\Users\antho\source\repos\FORMATION\Boucles\Boucles\bin\Debug\netcoreapp3.1\Boucles.dll
+C:\Users\antho\source\repos\FORMATION\Boucles\Boucles\bin\Debug\netcoreapp3.1\Boucles.pdb
+C:\Users\antho\source\repos\FORMATION\Boucles\Boucles\obj\Debug\netcoreapp3.1\Boucles.csprojAssemblyReference.cache
+C:\Users\antho\source\repos\FORMATION\Boucles\Boucles\obj\Debug\netcoreapp3.1\Boucles.AssemblyInfoInputs.cache
+C:\Users\antho\source\repos\FORMATION\Boucles\Boucles\obj\Debug\netcoreapp3.1\Boucles.AssemblyInfo.cs
+C:\Users\antho\source\repos\FORMATION\Boucles\Boucles\obj\Debug\netcoreapp3.1\Boucles.csproj.CoreCompileInputs.cache
+C:\Users\antho\source\repos\FORMATION\Boucles\Boucles\obj\Debug\netcoreapp3.1\Boucles.dll
+C:\Users\antho\source\repos\FORMATION\Boucles\Boucles\obj\Debug\netcoreapp3.1\Boucles.pdb
+C:\Users\antho\source\repos\FORMATION\Boucles\Boucles\obj\Debug\netcoreapp3.1\Boucles.genruntimeconfig.cache

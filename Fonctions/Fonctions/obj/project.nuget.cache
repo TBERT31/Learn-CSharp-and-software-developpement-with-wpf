@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "IJASYjaTh8I1ZfUInKlKG7yh1gGSCHkHh4d10aJ1/FlSX9pIc8LcL9kGAQ66dvBE5Zc5fbipkzRro41rqQFjnQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\antho\\source\\repos\\FORMATION\\Fonctions\\Fonctions\\Fonctions.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\antho\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
