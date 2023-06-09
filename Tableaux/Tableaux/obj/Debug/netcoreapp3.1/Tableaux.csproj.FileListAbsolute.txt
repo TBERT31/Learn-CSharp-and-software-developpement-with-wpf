@@ -1,0 +1,12 @@
+C:\Users\antho\source\repos\FORMATION\Tableaux\Tableaux\bin\Debug\netcoreapp3.1\Tableaux.exe
+C:\Users\antho\source\repos\FORMATION\Tableaux\Tableaux\bin\Debug\netcoreapp3.1\Tableaux.deps.json
+C:\Users\antho\source\repos\FORMATION\Tableaux\Tableaux\bin\Debug\netcoreapp3.1\Tableaux.runtimeconfig.json
+C:\Users\antho\source\repos\FORMATION\Tableaux\Tableaux\bin\Debug\netcoreapp3.1\Tableaux.runtimeconfig.dev.json
+C:\Users\antho\source\repos\FORMATION\Tableaux\Tableaux\bin\Debug\netcoreapp3.1\Tableaux.dll
+C:\Users\antho\source\repos\FORMATION\Tableaux\Tableaux\bin\Debug\netcoreapp3.1\Tableaux.pdb
+C:\Users\antho\source\repos\FORMATION\Tableaux\Tableaux\obj\Debug\netcoreapp3.1\Tableaux.AssemblyInfoInputs.cache
+C:\Users\antho\source\repos\FORMATION\Tableaux\Tableaux\obj\Debug\netcoreapp3.1\Tableaux.AssemblyInfo.cs
+C:\Users\antho\source\repos\FORMATION\Tableaux\Tableaux\obj\Debug\netcoreapp3.1\Tableaux.csproj.CoreCompileInputs.cache
+C:\Users\antho\source\repos\FORMATION\Tableaux\Tableaux\obj\Debug\netcoreapp3.1\Tableaux.dll
+C:\Users\antho\source\repos\FORMATION\Tableaux\Tableaux\obj\Debug\netcoreapp3.1\Tableaux.pdb
+C:\Users\antho\source\repos\FORMATION\Tableaux\Tableaux\obj\Debug\netcoreapp3.1\Tableaux.genruntimeconfig.cache

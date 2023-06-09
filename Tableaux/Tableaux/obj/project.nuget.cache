@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "kbQu/MrU1efQV/1F87WIprnaC4rkz+FtCwwZRCAoYCwTfmrmpJ0Rlz3O+2cSBm6k+4LGmltLTilKwrz2lalH7w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\antho\\source\\repos\\FORMATION\\Tableaux\\Tableaux\\Tableaux.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\antho\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
