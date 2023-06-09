@@ -1,0 +1,13 @@
+C:\Users\antho\source\repos\FORMATION\Fichiers\Fichiers\bin\Debug\netcoreapp3.1\Fichiers.exe
+C:\Users\antho\source\repos\FORMATION\Fichiers\Fichiers\bin\Debug\netcoreapp3.1\Fichiers.deps.json
+C:\Users\antho\source\repos\FORMATION\Fichiers\Fichiers\bin\Debug\netcoreapp3.1\Fichiers.runtimeconfig.json
+C:\Users\antho\source\repos\FORMATION\Fichiers\Fichiers\bin\Debug\netcoreapp3.1\Fichiers.runtimeconfig.dev.json
+C:\Users\antho\source\repos\FORMATION\Fichiers\Fichiers\bin\Debug\netcoreapp3.1\Fichiers.dll
+C:\Users\antho\source\repos\FORMATION\Fichiers\Fichiers\bin\Debug\netcoreapp3.1\Fichiers.pdb
+C:\Users\antho\source\repos\FORMATION\Fichiers\Fichiers\obj\Debug\netcoreapp3.1\Fichiers.csprojAssemblyReference.cache
+C:\Users\antho\source\repos\FORMATION\Fichiers\Fichiers\obj\Debug\netcoreapp3.1\Fichiers.AssemblyInfoInputs.cache
+C:\Users\antho\source\repos\FORMATION\Fichiers\Fichiers\obj\Debug\netcoreapp3.1\Fichiers.AssemblyInfo.cs
+C:\Users\antho\source\repos\FORMATION\Fichiers\Fichiers\obj\Debug\netcoreapp3.1\Fichiers.csproj.CoreCompileInputs.cache
+C:\Users\antho\source\repos\FORMATION\Fichiers\Fichiers\obj\Debug\netcoreapp3.1\Fichiers.dll
+C:\Users\antho\source\repos\FORMATION\Fichiers\Fichiers\obj\Debug\netcoreapp3.1\Fichiers.pdb
+C:\Users\antho\source\repos\FORMATION\Fichiers\Fichiers\obj\Debug\netcoreapp3.1\Fichiers.genruntimeconfig.cache

@@ -1,0 +1,1 @@
+Le nouveau contenu = Exemple de texte à écrire dans un fichier sur le disque
